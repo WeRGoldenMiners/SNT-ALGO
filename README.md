@@ -2,10 +2,10 @@
 
 Exercices des Cours d'ALGO
 
-Verification de nombres premiers:
+# Verification de nombres premiers:
 
-...
-# Ce programme trouvera les nombres premiers dans une fourchette donnée
+```python
+#Ce programme trouvera les nombres premiers dans une fourchette donnée
 
 nombre_premier = int(input("Écrit un nombre premier: "))
 
@@ -22,11 +22,10 @@ def ep(n):
 
       
 ep(nombre_premier)
-...
-
-Chercheur de nombre palindrome à partir d'un nombre de votre choix: 
-
-...
+```
+# Chercheur de nombre palindrome à partir d'un nombre de votre choix: 
+ 
+```python
 # Ce programme nous montrera un nombre palindrome
 n = int(input("Donne moi un nombre: "))
 
@@ -51,4 +50,4 @@ def nbetape(n):
   
 
 nbetape(n)
-...
+```
